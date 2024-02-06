@@ -1,4 +1,4 @@
-package televisionApp;
+package semicolonJavaPhase2.televisionApp;
 
 public class Television {
     private boolean isTelevisionOn;
