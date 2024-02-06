@@ -234,6 +234,9 @@ public class FireDrillThree {
 
         return oddIndexArray;
     }
+
+
+    
 /*
     public int[] taskTwelve(int[] array){
         int[] evenIndexArray = new int[array.length / 2];
