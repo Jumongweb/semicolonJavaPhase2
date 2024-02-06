@@ -236,7 +236,7 @@ public class FireDrillThree {
     }
 
 
-    
+
 /*
     public int[] taskTwelve(int[] array){
         int[] evenIndexArray = new int[array.length / 2];
@@ -272,9 +272,9 @@ public class FireDrillThree {
 
  */
 
-    public static void main(String[] args) {
-        int[] originalArray = {10,2,3,1,4,5,6,7};
-        FireDrillThree fireDrillThree = new FireDrillThree();
-        fireDrillThree.taskTwelve(originalArray);
-    }
+//    public static void main(String[] args) {
+//        int[] originalArray = {10,2,3,1,4,5,6,7};
+//        FireDrillThree fireDrillThree = new FireDrillThree();
+//        fireDrillThree.taskTwelve(originalArray);
+//    }
 }
